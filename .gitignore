@@ -1,0 +1,9 @@
+echo "# Python files
+__pycache__/
+*.py[cod]
+*.so
+.env
+.venv/
+config.py
+*.svg
+*.png" > .gitignore
